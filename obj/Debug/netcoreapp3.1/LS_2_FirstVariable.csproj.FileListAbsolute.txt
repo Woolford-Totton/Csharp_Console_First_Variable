@@ -1,0 +1,14 @@
+C:\Users\benwo\source\repos\Teaching\Lessons\LS_2_FirstVariable\bin\Debug\netcoreapp3.1\LS_2_FirstVariable.exe
+C:\Users\benwo\source\repos\Teaching\Lessons\LS_2_FirstVariable\bin\Debug\netcoreapp3.1\LS_2_FirstVariable.deps.json
+C:\Users\benwo\source\repos\Teaching\Lessons\LS_2_FirstVariable\bin\Debug\netcoreapp3.1\LS_2_FirstVariable.runtimeconfig.json
+C:\Users\benwo\source\repos\Teaching\Lessons\LS_2_FirstVariable\bin\Debug\netcoreapp3.1\LS_2_FirstVariable.runtimeconfig.dev.json
+C:\Users\benwo\source\repos\Teaching\Lessons\LS_2_FirstVariable\bin\Debug\netcoreapp3.1\LS_2_FirstVariable.dll
+C:\Users\benwo\source\repos\Teaching\Lessons\LS_2_FirstVariable\bin\Debug\netcoreapp3.1\LS_2_FirstVariable.pdb
+C:\Users\benwo\source\repos\Teaching\Lessons\LS_2_FirstVariable\obj\Debug\netcoreapp3.1\LS_2_FirstVariable.csproj.AssemblyReference.cache
+C:\Users\benwo\source\repos\Teaching\Lessons\LS_2_FirstVariable\obj\Debug\netcoreapp3.1\LS_2_FirstVariable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benwo\source\repos\Teaching\Lessons\LS_2_FirstVariable\obj\Debug\netcoreapp3.1\LS_2_FirstVariable.AssemblyInfoInputs.cache
+C:\Users\benwo\source\repos\Teaching\Lessons\LS_2_FirstVariable\obj\Debug\netcoreapp3.1\LS_2_FirstVariable.AssemblyInfo.cs
+C:\Users\benwo\source\repos\Teaching\Lessons\LS_2_FirstVariable\obj\Debug\netcoreapp3.1\LS_2_FirstVariable.csproj.CoreCompileInputs.cache
+C:\Users\benwo\source\repos\Teaching\Lessons\LS_2_FirstVariable\obj\Debug\netcoreapp3.1\LS_2_FirstVariable.dll
+C:\Users\benwo\source\repos\Teaching\Lessons\LS_2_FirstVariable\obj\Debug\netcoreapp3.1\LS_2_FirstVariable.pdb
+C:\Users\benwo\source\repos\Teaching\Lessons\LS_2_FirstVariable\obj\Debug\netcoreapp3.1\LS_2_FirstVariable.genruntimeconfig.cache
